@@ -1,8 +1,4 @@
 # flutter_guess
 
-A new Flutter application.
+I'm learning flutter & dart, so i'm remaking number guess using this framework.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
